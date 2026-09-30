@@ -36,7 +36,7 @@ This project helped me understand how **AI can be used alongside traditional web
 
 ## 💻 GitHub Repository
 
-🔗 **[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)**
+🔗 **https://github.com/poojak4232/portfolio-website**
 
 ---
 
