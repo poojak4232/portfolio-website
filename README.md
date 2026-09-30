@@ -5,8 +5,6 @@ A modern and responsive **Personal Portfolio Website** created as part of my lea
 
 This project was developed with the assistance of **AI tools** and built using **HTML, CSS, and JavaScript**. It showcases my profile, skills, projects, education, and learning journey in a simple and professional way.
 
-## Home Page
-Screenshot 2026-09-30 163357.png
 
 ## ✨ Features
 
