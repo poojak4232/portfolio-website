@@ -1,7 +1,7 @@
 # portfolio-website
-# 🌐 AI-Assisted Personal Portfolio Website
+# 🌐 AI-Assisted Personal Portfolio Website | sample project
 
-A modern and responsive **Personal Portfolio Website** created as part of my learning journey in **AI and Data Analytics**.
+A modern and responsive **Personal Portfolio Website** created as part of my learning journey in **AI and Data Analytics** as a sample.
 
 This project was developed with the assistance of **AI tools** and built using **HTML, CSS, and JavaScript**. It showcases my profile, skills, projects, education, and learning journey in a simple and professional way.
 
